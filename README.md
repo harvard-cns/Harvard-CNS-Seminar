@@ -17,6 +17,6 @@ We are holding reading seminar in Harvard Cloud & Network System Group. If you a
 | July 22     | TBD |  TBD |
 | July 29     | TBD |  TBD |
 | Aug  05     | TBD |  TBD |
-| Aug  12   | [Liangcheng Yu](https://liangchengyu.com/) |  Recent works in NSDI 22 and SIGCOMM 22 |
+| Aug  12   | [Liangcheng Yu](https://liangchengyu.com/) (Upenn)|  Recent works in NSDI 22 and SIGCOMM 22 |
 | Aug  19   | TBD |  TBD |
 | Aug  26   | TBD |  TBD |
