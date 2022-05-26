@@ -8,7 +8,7 @@ We are holding reading seminar regularly this summer. If you are interested in s
 | Time  | Speaker  | Topic |
 | :------------ |:---------------| :-----|
 | June 3     | [Yang Zhou](https://yangzhou1997.github.io/) (Harvard)| [Carbink: Fault-Tolerant Far Memory](https://www.usenix.org/conference/osdi22/presentation/zhou-yang) (OSDI 2022) |
-| June 10     | TBD | Lead the eBPF tutorial [[Github](https://github.com/lizrice/ebpf-beginners)]  |
+| June 10     | TBD | TBD |
 | June 17     | TBD |  TBD |
 | June 24     | TBD |  TBD |
 | July 01     | TBD |  TBD |
