@@ -1,7 +1,7 @@
 # Reading Seminar
 
 ## Description
-We are holding reading seminar in Harvard Cloud & Network System Group. If you are interested in sharing your recent works, feel free to get in touch! 
+We are holding reading seminar regularly this summer. If you are interested in sharing your recent works, feel free to get in touch! 
 
 
 ## Schedule
