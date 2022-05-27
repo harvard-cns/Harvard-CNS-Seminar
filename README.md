@@ -13,8 +13,8 @@ We are holding reading seminar regularly this summer. If you are interested in s
 | June 24     | TBD |  TBD |
 | July 01     | [Tao Wang]() (NYU) |  [Isolation Mechanisms for High-Speed Packet-Processing Pipelines](https://www.usenix.org/conference/nsdi22/presentation/wang-tao) (NSDI 2022) |
 | July 08     | TBD |  TBD |
-| July 15     | TBD |  TBD |
-| July 22     | TBD |  TBD |
+| July 15     |  SKIP | SKIP |
+| July 22     | SKIP |  SKIP |
 | July 29     | TBD |  TBD |
 | Aug  05     | [Qizhen Zhang](https://www.cis.upenn.edu/~qizhen/) (Upenn) |  TBD |
 | Aug  12   | [Liangcheng Yu](https://liangchengyu.com/) (Upenn)|  Recent works in NSDI 22 and SIGCOMM 22 |
