@@ -12,7 +12,7 @@ We are holding reading seminar regularly this summer. If you are interested in s
 | June 17     | TBD |  TBD |
 | June 24     | [Waleed Reda](https://wreda.github.io/) (KTH) |  [RDMA is Turing complete, we just did not know it yet!](https://www.usenix.org/conference/nsdi22/presentation/reda) (NSDI 2022) |
 | July 01     | [Tao Wang]() (NYU) |  [Isolation Mechanisms for High-Speed Packet-Processing Pipelines](https://www.usenix.org/conference/nsdi22/presentation/wang-tao) (NSDI 2022) |
-| July 08     | [Rishabh Iyer](https://dslab.epfl.ch/people/iyer/) |  [Performance Interfaces for Network Functions](https://dslab.epfl.ch/pubs/pix.pdf) (NSDI 2022) |
+| July 08     | [Rishabh Iyer](https://dslab.epfl.ch/people/iyer/) (EPFL) |  [Performance Interfaces for Network Functions](https://dslab.epfl.ch/pubs/pix.pdf) (NSDI 2022) |
 | July 15     |  SKIP | SKIP |
 | July 22     | SKIP |  SKIP |
 | July 29     | TBD |  TBD |
