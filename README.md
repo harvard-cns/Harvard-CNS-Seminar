@@ -8,7 +8,7 @@ We are holding reading seminar regularly this summer. If you are interested in s
 | Time  | Speaker  | Topic |
 | :------------ |:---------------| :-----|
 | June 3     | [Yang Zhou](https://yangzhou1997.github.io/) (Harvard)| [Carbink: Fault-Tolerant Far Memory](https://www.usenix.org/conference/osdi22/presentation/zhou-yang) (OSDI 2022) |
-| June 10     | TBD | [Link](https://www.youtube.com/watch?v=LByPYG1PcIw) |
+| June 10     | Self Study | [Near-Storage Acceleration in Practice: Opportunities and Challenges](https://www.youtube.com/watch?v=u-q-COXyEVc) |
 | June 17     | TBD |  TBD |
 | June 24     | [Waleed Reda](https://wreda.github.io/) (KTH) |  [RDMA is Turing complete, we just did not know it yet!](https://www.usenix.org/conference/nsdi22/presentation/reda) (NSDI 2022) |
 | July 01     | [Tao Wang]() (NYU) |  [Isolation Mechanisms for High-Speed Packet-Processing Pipelines](https://www.usenix.org/conference/nsdi22/presentation/wang-tao) (NSDI 2022) |
