@@ -19,5 +19,4 @@ We are holding reading seminar regularly this summer. If you are interested in s
 | Aug  05     | [Qizhen Zhang](https://www.cis.upenn.edu/~qizhen/) (Upenn) |  TBD |
 | Aug  12   | [Liangcheng Yu](https://liangchengyu.com/) (Upenn)|  Recent works in NSDI 22 and SIGCOMM 22 |
 | Aug  19   | TBD |  TBD |
-| Aug  26   | [Hun Namkung](https://hnamkung.github.io/) (CMU) |  [
-SketchLib: Enabling Efficient Sketch-based Monitoring on Programmable Switches](https://hnamkung.github.io/assets/pdf/nsdi22-sketchlib.pdf) [NSDI 2022]|
+| Aug  26   | [Hun Namkung](https://hnamkung.github.io/) (CMU) |  [SketchLib: Enabling Efficient Sketch-based Monitoring on Programmable Switches](https://hnamkung.github.io/assets/pdf/nsdi22-sketchlib.pdf) [NSDI 2022]|
