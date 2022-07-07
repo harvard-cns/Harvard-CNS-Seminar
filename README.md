@@ -15,7 +15,7 @@ We are holding reading seminar regularly this summer. If you are interested in s
 | July 08     | [Rishabh Iyer](https://dslab.epfl.ch/people/iyer/) (EPFL) |  [Performance Interfaces for Network Functions](https://dslab.epfl.ch/pubs/pix.pdf) (NSDI 2022) |
 | July 15     |  SKIP | SKIP |
 | July 22     | SKIP |  SKIP |
-| July 29     | TBD |  TBD |
+| July 29     | [Mingran Yang](https://mingrany.github.io/) (MIT) |  [Using Trio – Juniper Networks’ Programmable Chipset – for Emerging In-Network Applications]() (SIGCOMM 2022) |
 | Aug  05     | [Qizhen Zhang](https://www.cis.upenn.edu/~qizhen/) (Upenn) |  TBD |
 | Aug  12   | [Liangcheng Yu](https://liangchengyu.com/) (Upenn)|  Recent works in NSDI 22 and SIGCOMM 22 |
 | Aug  19   | TBD |  TBD |
