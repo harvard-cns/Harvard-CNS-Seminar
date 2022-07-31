@@ -16,5 +16,5 @@ We are holding reading seminar regularly this summer. If you are interested in s
 | July 29     | [Mingran Yang](https://mingrany.github.io/) (MIT) |  [Using Trio – Juniper Networks’ Programmable Chipset – for Emerging In-Network Applications]() (SIGCOMM 2022) |
 | Aug  05     | [Qizhen Zhang](https://www.cis.upenn.edu/~qizhen/) (Upenn) |  TBD |
 | Aug  12   | [Liangcheng Yu](https://liangchengyu.com/) (Upenn)|  Recent works in NSDI 22 and SIGCOMM 22 |
-| Aug  19   | [Anup Agarwal](https://108anup.github.io/) |  (HeteroSketch: Coordinating Network-wide Monitoring in Hetero-geneous and Dynamic Networks)(CMU) [NSDI 2022] |
+| Aug  19   | [Anup Agarwal](https://108anup.github.io/) (CMU) |  [HeteroSketch: Coordinating Network-wide Monitoring in Hetero-geneous and Dynamic Networks](https://www.usenix.org/system/files/nsdi22spring_prepub_agarwal.pdf) [NSDI 2022] |
 | Aug  26   | [Hun Namkung](https://hnamkung.github.io/) (CMU) |  [SketchLib: Enabling Efficient Sketch-based Monitoring on Programmable Switches](https://hnamkung.github.io/assets/pdf/nsdi22-sketchlib.pdf) [NSDI 2022]|
