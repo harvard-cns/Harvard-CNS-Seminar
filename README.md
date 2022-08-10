@@ -15,6 +15,6 @@ We are holding reading seminar regularly this summer. If you are interested in s
 | July 08     | [Rishabh Iyer](https://dslab.epfl.ch/people/iyer/) (EPFL) |  [Performance Interfaces for Network Functions](https://dslab.epfl.ch/pubs/pix.pdf) (NSDI 2022) |
 | July 29     | [Mingran Yang](https://mingrany.github.io/) (MIT) |  [Using Trio – Juniper Networks’ Programmable Chipset – for Emerging In-Network Applications]() (SIGCOMM 2022) |
 | Aug  05     | [Qizhen Zhang](https://www.cis.upenn.edu/~qizhen/) (Upenn) |  Hyperscale Data Processing with Network-centric Designs |
-| Aug  12   | [Liangcheng Yu](https://liangchengyu.com/) (Upenn)|  Recent works in NSDI 22 and SIGCOMM 22 |
+| Aug  12   | [Liangcheng Yu](https://liangchengyu.com/) (Upenn)|  [OrbWeaver: Using IDLE Cycles in Programmable Networks for Opportunistic Coordination](https://www.usenix.org/conference/nsdi22/presentation/yu) [NSDI 2022] |
 | Aug  19   || |
 | Aug  26   | [Hun Namkung](https://hnamkung.github.io/) (CMU) |  [SketchLib: Enabling Efficient Sketch-based Monitoring on Programmable Switches](https://hnamkung.github.io/assets/pdf/nsdi22-sketchlib.pdf) [NSDI 2022]|
