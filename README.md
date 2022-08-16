@@ -6,7 +6,7 @@ We will be inviting external speakers to present at our group meeting in Fall 20
 
 ## Schedule
 
-Meeting time/location: TBD
+Meeting time/location: Mondays 12:30pm-2:00pm, SEC 4.405
 
 | Date  | Speaker  | Topic |
 | :------------ |:---------------| :-----|
